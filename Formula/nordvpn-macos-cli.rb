@@ -1,8 +1,8 @@
 class NordvpnMacosCli < Formula
   desc "Control NordVPN manual VPN profiles on macOS"
   homepage "https://github.com/3Vis3/nordvpn-macos-cli"
-  url "https://github.com/3Vis3/nordvpn-macos-cli/archive/refs/tags/v0.3.4.tar.gz"
-  sha256 "112d93203cbdd7277a996a6a876e5ab5ffdb3dc6366ce2e93169743e9ffc6874"
+  url "https://github.com/3Vis3/nordvpn-macos-cli/archive/refs/tags/v0.3.5.tar.gz"
+  sha256 "35097c3d4af43ba856543ece321f89973214e5c2eb79afcd796a03a66f967f13"
   license "MIT"
 
   depends_on xcode: ["13.0", :build]
